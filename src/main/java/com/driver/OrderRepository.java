@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-
+@Repository
 public class OrderRepository {
 
     private HashMap<String, Order> orderHashMap;
